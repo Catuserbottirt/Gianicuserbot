@@ -1,5 +1,5 @@
 from telethon import events
-from MikuXProBot import telethn
+from GianicBot import telethn
 
 
 def register(**args):
