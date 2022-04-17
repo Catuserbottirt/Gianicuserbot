@@ -34,9 +34,6 @@
 ### ╒═══「 Creator Info/Credits 」
 
 +  [Gianic](https://github.com/Gianic) : OWNER | DEV
-+  [Rajkumar](https://github.com/Awesome-RJ) : BASE
-+  [Hirojazz](https://github.com/Hirojazz) : BASE
-+  [Dank-del](https://github.com/Dank-del) : BASE 
 
 ╘══「 Any other authorship/credits can be seen through the commits. 」
 
