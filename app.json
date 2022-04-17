@@ -1,15 +1,15 @@
 {
-      "name": "Miku Nakano",
+      "name": "Gianicbot",
       "description": "An Anime themed Telegram group management bot.",
-      "logo": "https://telegra.ph/file/bc219808c6d888fc72260.jpg",
+      "logo": "https://te.legra.ph/file/83f50733c89f2c7b8c4e1.jpg",
       "keywords": [
          "telegram",
          "anime",
          "group",
          "manager",
-         "Miku"
+         "Gianic"
       ],   
-   "repository": "https://github.com/h0daka/Miku-Nakano",
+   "repository": "https://github.com/Catuserbottirt/Gianicuserbot",
    "addons": [
       {
          "options": {
@@ -42,21 +42,21 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "5291415314"
+         "value": "5033872287"
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "h0daka"
+         "value": "Gianic_Is_Hero"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to miku support than consider you made an enemy.",
          "required": true,
-         "value": "Mikussupport"
+         "value": "Gianicbotsupport"
       },
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-123456798"
+         "value": "123456789"
       },
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
@@ -86,7 +86,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Miku support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": "5291415314"
+         "value": "5033872287"
       },
       "sw_api": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
@@ -100,12 +100,12 @@
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "5291415314"
+         "value": "5033872287"
       },
       "DEMONS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "5291415314"
+         "value": "5033872287"
       },
       "TIGERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
