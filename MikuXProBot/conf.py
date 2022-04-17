@@ -1,5 +1,5 @@
 from envparse import env
-from MikuXProBot import LOGGER
+from GianicBot import LOGGER
 
 DEFAULTS = {
     "LOAD_MODULES": True,
