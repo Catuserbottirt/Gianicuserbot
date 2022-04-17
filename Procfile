@@ -1,3 +1,3 @@
-worker: python3 -m MikuXProBot
-web: python3 -m MikuXProBot
+worker: python3 -m Gianicbot
+web: python3 -m Gianicbot
 ps:scale worker=1
