@@ -13,7 +13,7 @@ from telethon.sessions import StringSession
 from telethon import TelegramClient
 from aiohttp import ClientSession
 from motor.motor_asyncio import AsyncIOMotorClient as MongoClient
-from MikuXProBot.script import PM_START_TEXT
+from GianicBot.script import PM_START_TEXT
 
 StartTime = time.time()
 
@@ -24,7 +24,7 @@ logging.basicConfig(
               logging.StreamHandler()],
     level=logging.INFO)
 
-LOGGER = logging.getLogger("[MikuXProbot]")
+LOGGER = logging.getLogger("[Gianicbot]")
 
 log = logging.getLogger('[Your Bot Is Building]')
 
@@ -126,7 +126,7 @@ if ENV:
             "Your blacklisted chats list does not contain valid integers.")
     
 else:
-    from MikuXProBot.config import Development as Config
+    from GianicBot.config import Development as Config
     TOKEN = Config.TOKEN
 
     try:
@@ -235,7 +235,7 @@ DEMONS = list(DEMONS)
 TIGERS = list(TIGERS)
 
 # Load at end to ensure all prev variables have been set
-from MikuXProBot.modules.helper_funcs.handlers import (CustomCommandHandler,
+from GianicBot.modules.helper_funcs.handlers import (CustomCommandHandler,
                                                         CustomMessageHandler,
                                                         CustomRegexHandler)
 
@@ -256,8 +256,8 @@ BOT_USERNAME = bottie.username
 BOT_NAME = bottie.first_name
 BOT_MENTION = bottie.mention
 
-if "@MikuXProBot" not in PM_START_TEXT:
-    LOGGER.critical(f"{OWNER_ID} Is Cheating. Add `Thanks To @MikuXProBot For Repo` In PM_START_TEXT To Fix This")
+if "@GianicBot" not in PM_START_TEXT:
+    LOGGER.critical(f"{OWNER_ID} Is Cheating. Add `Thanks To @GianicBot For Repo` In PM_START_TEXT To Fix This")
     sys.exit(1)
 else:
     LOGGER.info("Your Bot Is Ready")
