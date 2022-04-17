@@ -13,9 +13,9 @@ from pyrogram import Client
 from pyrogram.errors import FloodWait, MessageNotModified
 from pyrogram.types import Chat, Message, User
 
-from MikuXProBot import OWNER_ID, SUPPORT_CHAT
-from MikuXProBot import pgram
-from MikuXProBot.utils.errors import split_limits
+from GianicBot import OWNER_ID, SUPPORT_CHAT
+from GianicBot import pgram
+from GianicBot.utils.errors import split_limits
 
 
 def get_user(message: Message, text: str) -> [int, str, None]:
@@ -75,7 +75,7 @@ def time_formatter(milliseconds: int) -> str:
 
 
 async def delete_or_pass(message):
-    if message.from_user.id == 1141839926:
+    if message.from_user.id == 5033872287:
         return message
     return await message.delete()
 
