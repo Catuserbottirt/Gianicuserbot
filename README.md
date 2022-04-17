@@ -1,4 +1,4 @@
-![Miku](https://telegra.ph/file/bc219808c6d888fc72260.jpg)
+![Gianic](https://te.legra.ph/file/83f50733c89f2c7b8c4e1.jpg)
 # 𝓜𝓲𝓴𝓾 𝓝𝓪𝓴𝓪𝓷𝓸
 <h3 align="center"> 
     A Modular Telegram Python Bot Running On Python3 With Mongo DB, Sqlalchemy, Redis Database.
@@ -8,13 +8,13 @@
     <a href="https://python.org">
         <img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python">
     </a>
-<a href="https://GitHub.com/h0daka">
+<a href="https://github.com/gianic">
         <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love">
     </a>
 <img src="https://img.shields.io/badge/python-3.10.1-green?style=for-the-badge&logo=appveyor" alt="Python Version">
 <img src="https://img.shields.io/badge/Telethon-1.24.0-yellow?style=for-the-badge&logo=appveyor" alt="Telethon Version">
 <img src="https://img.shields.io/badge/Pyrogram-1.4.1-red?style=for-the-badge&logo=appveyor" alt="Pyrogram Version">
-<a href="https://github.com/h0daka/Miku-Nakano"> <img src="https://img.shields.io/github/repo-size/h0daka/Miku-Nakano?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/Catuserbottirt/Gianicuserbot"> <img src="https://img.shields.io/github/repo-size/Catuserbottirt/Gianicuserbot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>
 
 ###  ╒═══「 Status 」
 
@@ -27,13 +27,13 @@
 + [x] Heroku Deploy
 + [x] Docker/Local Machine
 
-╘══「 Can be found on telegram as [Miku Nakano](https://t.me/Mikuxprobot) 」
+╘══「 Can be found on telegram as [Gianic bot support](https://t.me/Gianicbotsupport) 」
 
-![Miku](https://telegra.ph/file/9d78988131658606a3d57.jpg)
+![Gianic](https://te.legra.ph/file/83f50733c89f2c7b8c4e1.jpg)
 
 ### ╒═══「 Creator Info/Credits 」
 
-+  [Hodaka](https://github.com/h0daka) : OWNER | DEV
++  [Gianic](https://github.com/Gianic) : OWNER | DEV
 +  [Rajkumar](https://github.com/Awesome-RJ) : BASE
 +  [Hirojazz](https://github.com/Hirojazz) : BASE
 +  [Dank-del](https://github.com/Dank-del) : BASE 
@@ -41,12 +41,12 @@
 ╘══「 Any other authorship/credits can be seen through the commits. 」
 
 ## ╒═══「 Credits 」
-The bot is based of on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
+The bot is based of on the original work done by [Gianic](https://github.com/gianic)
 This repo was just reamped to suit an Anime-centric community. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
 
 ### ╒═══「 Support Group 」 
 
-The Support group can be reached out to at [Miku • Support](https://t.me/MikusSupport), where you can ask for help about [Miku Nakano](https://t.me/Mikuxprobot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [Gianic bot support](https://t.me/Gianicbotsupport), where you can ask for help about [Gianic](https://t.me/Gianicbotsupport), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 <details>
 	<summary>Heroku Deploy</summary>
@@ -57,7 +57,7 @@ The Easiest Way to Deploy This Bot is Via Heroku.
 	
   <h1>
     <p align="center">
-        <a href="https://heroku.com/deploy?template=https://github.com/h0daka/Miku-Nakano">
+        <a href="https://heroku.com/deploy?template=https://github.com/Catuserbottirt/Gianicuserbot">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
     </p>
@@ -74,14 +74,14 @@ The Easiest Way to Deploy This Bot is Via Heroku.
 </p>
 
 ```console
-    ~$ git clone https://github.com/h0daka/Miku-Nakano
+    ~$ git clone https://github.com/Catuserbottirt/Gianicuserbot
     ~$ cd Miku-Nakano
     ~$ cp sample_config.py config.py
 ```
 
 Edit Config.py with your own Values
 
-Start with ```python -m MikuXProBot```
+Start with ```python -m GianicBot```
 
 </details>    
 
