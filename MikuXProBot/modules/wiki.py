@@ -1,6 +1,6 @@
 import wikipedia
-from MikuXProBot import dispatcher
-from MikuXProBot.modules.disable import DisableAbleCommandHandler
+from GianicBot import dispatcher
+from GianicBot.modules.disable import DisableAbleCommandHandler
 from telegram import ParseMode, Update
 from telegram.ext import CallbackContext, run_async
 from wikipedia.exceptions import DisambiguationError, PageError
